@@ -1,0 +1,12 @@
+設置常數項(sigma,beta,rho)
+設置變數項(xyz,steps,time interval)
+選擇積分法(Euler,RK4,AB3)
+#基礎3D繪圖
+--3D大圖
+--切換：3D與1D繪圖
+
+#比較
+--顯示積分時間
+--初始點改變的比較(chaos、two part compute)
+--誤差的累積
+--不同dt的積分時間、誤差
